@@ -5,4 +5,5 @@ If you are using the sequential labels of DCASE 2018 Task 4 1578 audio clips, pl
 waiting....
 
 Please feel free to contact me if you have any questions.
-mail: hyb@bupt.edu.cn
+
+Mail: hyb@bupt.edu.cn
